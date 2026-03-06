@@ -1,0 +1,143 @@
+#: locale=es
+
+## Media
+
+### Title
+panorama_826B662D_8EC9_D519_41D9_CF4905BE89B4.label = selected001
+panorama_854F7AD6_8EC9_3D08_41E1_7CD2DE816020.label = selected002
+panorama_854C2D21_8EC9_5708_41E0_96B1404469D4.label = selected003
+panorama_854C0FF5_8EC9_7309_41AD_F8943A57C954.label = selected004
+panorama_854C2168_8EC9_2F07_41D5_3E585CA8D440.label = selected005
+panorama_854C735D_8ECA_D339_41DC_607B17860B8E.label = selected006
+panorama_854C0545_8ECA_F709_41DC_831528FF4383.label = selected007
+panorama_854C37C2_8ECA_D308_4194_D9F0940A57C5.label = selected008
+panorama_854DEB07_8ECB_3308_41CB_7CE0648A3EDC.label = selected009
+panorama_854DDFFF_8ECB_52F9_41D2_F0AA03759C58.label = selected010
+panorama_854C2490_8ECB_5507_41DF_64C6C20E7708.label = selected011
+panorama_854DB752_8ECB_3308_41D8_CB4D37AF79E9.label = selected012
+panorama_854C1C8B_8ECB_D519_41B5_320C2EE3DAD0.label = selected013
+panorama_854D80D8_8ECB_ED38_41BD_012375C77CA7.label = selected014
+panorama_854CB42F_8ECB_3518_41D1_CFE47000D5C1.label = selected015
+panorama_854C885E_8ECB_5D38_41D1_001C1CE0340A.label = selected016
+panorama_854CCD33_8ECB_7708_41D8_D8E0DBCC0616.label = selected017
+panorama_854CF2D0_8ECB_2D08_41D7_A1D21F6D5CA8.label = selected018
+panorama_854C5797_8ECA_D309_41D0_F1C49069DBA9.label = selected019
+panorama_854C7AED_8ECA_FD19_41D3_C807C308B606.label = selected020
+panorama_854C3C80_8ECA_D507_41C0_8339EC0FD590.label = selected021
+panorama_854FAECD_8EC9_3519_41CB_DE6720E7982B.label = selected022
+panorama_854FC159_8EC9_6F39_41D5_7A932A8A4300.label = selected023
+panorama_854F943A_8EC9_5578_41E1_22A61027827D.label = selected024
+panorama_854FB6A7_8EC9_3509_41D2_0F79412785C1.label = selected025
+panorama_854F98C1_8EC9_DD09_41CF_7E12539DBAE0.label = selected026
+panorama_854C7B92_8EC9_F30B_41B5_C3308BD8D5B7.label = selected027
+panorama_854F8E95_8EC9_D509_41BA_61DFD4F54180.label = selected028
+panorama_854CA301_8EC9_5308_41D5_7293F6A8F8EE.label = selected029
+panorama_854C8629_8EC9_7519_41D5_87EC02666A50.label = selected030
+panorama_854CD875_8EC9_5D08_41E1_A8284C46DC14.label = selected031
+panorama_854C8A5B_8EC9_3D38_41A1_62950F4947D0.label = selected032
+panorama_854CBC22_8ECE_D50B_41C6_F2A11A2C4BEA.label = selected033
+panorama_854CBE1B_8ECE_F538_41E1_8474FB391FBA.label = selected034
+panorama_854DD054_8ECF_2D08_41E0_90D5FA715CE9.label = selected035
+panorama_854DB368_8ECF_5307_41A6_EF5BBACFF673.label = selected036
+panorama_854C36AF_8ECF_7519_41DF_EE7D8C51C1F3.label = selected037
+panorama_854D994C_8ECF_5F18_41C3_63327AE80064.label = selected038
+panorama_854DABFA_8ECF_32FB_41CB_34FE3EDEDBFD.label = selected039
+panorama_854D8E58_8ECF_D507_41C0_0C848883D0CA.label = selected040
+panorama_854C40F6_8ECF_ED0B_41C4_0046FA46089B.label = selected041
+panorama_854C9386_8ECF_330B_41DD_0C4B5F99A112.label = selected042
+panorama_854C9A30_8ECF_7D07_419E_17BB773922EC.label = selected044
+panorama_854CCE80_8ECF_5507_41D9_039C74C62AFA.label = selected045
+
+## Skin
+
+### Button
+Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC_mobile.label = BACK
+Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC.label = BACK
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42_mobile.label = Bathrooms
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42.pressedLabel = Bathrooms
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42.label = Bathrooms
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42_mobile.pressedLabel = Bathrooms
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581.label = Bedrooms
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.label = Bedrooms
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581.pressedLabel = Bedrooms
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.pressedLabel = Bedrooms
+Button_9D6987DB_8F4C_2442_41AA_C8869D24FB70.label = DAY MODE
+Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69.label = Rooms
+Button_9E61C78C_BF74_CC6C_41D5_5413C0B6EFC7.label = Exterior Area
+Button_9E61C78C_BF74_CC6C_41D5_5413C0B6EFC7_mobile.label = Exterior Area
+Button_9BA04B8B_8F44_ECC3_41D3_C3D09F73B7BA.label = NIGHT MODE
+Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2_mobile.label = Others
+Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2.label = Others
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = PANORAMA LIST
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.pressedLabel = Reception
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.label = Reception
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2.label = Reception
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2.pressedLabel = Reception
+Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69_mobile.label = Rooms
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = PANORAMA LIST
+
+### Multiline Text
+HTMLText_DC319146_C473_208B_41B4_BDAD25BF866B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.97vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.97vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6199999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:3.61vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Montserrat';">COMPANY NAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">info@loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">COMPANY NAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:10px;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:10px;font-family:'Montserrat';">info@loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:10px;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV></div>
+HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 4.5px rgba(0,0,0,1);text-align:left;font-size:10.28vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:10.28vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_DC317147_C473_2089_41E1_A2A60EF4B565.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:4.369999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:4.37vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:6.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 9
+
+## VR Menu
+
+### Text
+Menu_A4E32861_8F39_DD08_41B6_6DA92D743AED.label = Media
+MenuItem_A4F5F939_8F39_DF78_41D6_AFE53CF00820.label = selected001
+MenuItem_A4F5D939_8F39_DF78_41C1_21C7562E805D.label = selected002
+MenuItem_A4F5293A_8F39_DF78_41B6_F6F743DFDAD6.label = selected003
+MenuItem_A4F5A93A_8F39_DF78_41CD_498E5712CF52.label = selected004
+MenuItem_A4F6093A_8F39_DF78_41DD_5BB9CD5C1970.label = selected005
+MenuItem_A4F5A93A_8F39_DF78_41E1_B09CECE2BA73.label = selected006
+MenuItem_A4F4A933_8F39_DF08_4193_D7739DEF5581.label = selected007
+MenuItem_A4F50939_8F39_DF78_41E1_B74500C0B428.label = selected008
+MenuItem_A4F57939_8F39_DF78_41B3_F0063CE3D53E.label = selected009
+MenuItem_A4F5D93A_8F39_DF78_41C8_DDB6417D7F13.label = selected010
+MenuItem_A4F6593A_8F39_DF78_41D4_D1FC261EAFE7.label = selected011
+MenuItem_A4F5F93A_8F39_DF78_41DA_47FD917011FB.label = selected012
+MenuItem_A4F6693A_8F39_DF78_41E0_6A3B35A7548F.label = selected013
+MenuItem_A4F51934_8F39_DF08_41C8_A50E6EBFABCC.label = selected014
+MenuItem_A4F5C939_8F39_DF78_41C7_42B09B3E56FC.label = selected015
+MenuItem_A4F5193A_8F39_DF78_41B8_28056CEBDDB9.label = selected016
+MenuItem_A4F5993A_8F39_DF78_41D1_5EA30CD4CA45.label = selected017
+MenuItem_A4F6E93A_8F39_DF78_41D0_9C2A25570CAB.label = selected018
+MenuItem_A4F5993A_8F39_DF78_41C4_6ACB35D56936.label = selected019
+MenuItem_A4F49933_8F39_DF08_419B_5DA182AF9AB6.label = selected020
+MenuItem_A4F5E939_8F39_DF78_41D2_2ADF4008969A.label = selected021
+MenuItem_A4F56939_8F39_DF78_41B7_7371A622CDE2.label = selected022
+MenuItem_A4F5C93A_8F39_DF78_41DA_3DB4E7D0CF71.label = selected023
+MenuItem_A4F6393A_8F39_DF78_41DD_01EBE5911148.label = selected024
+MenuItem_A4F5D93A_8F39_DF78_41D8_A8AA725B3CE1.label = selected025
+MenuItem_A4F5B939_8F39_DF78_41C6_D1155DB84136.label = selected026
+MenuItem_A4F5093A_8F39_DF78_41DC_61AFC5BC60A9.label = selected027
+MenuItem_A4F5893A_8F39_DF78_41DF_E64E45371FB9.label = selected028
+MenuItem_A4F5193A_8F39_DF78_41BC_37CED3442CB7.label = selected029
+MenuItem_A4F48933_8F39_DF08_4180_7C738F61FC08.label = selected030
+MenuItem_A4F56933_8F39_DF08_41E1_6BA986B37A24.label = selected031
+MenuItem_A4F53939_8F39_DF78_41C8_0E1995C01035.label = selected032
+MenuItem_A4F5B93A_8F39_DF78_41CD_9791EF89FA87.label = selected033
+MenuItem_A4F6193A_8F39_DF78_41D4_BE1CF9012CE9.label = selected034
+MenuItem_A4F5B93A_8F39_DF78_41E0_FEFBA49F4034.label = selected035
+MenuItem_A4F4C933_8F39_DF08_41C1_C08179F19A92.label = selected036
+MenuItem_A4F50934_8F39_DF08_41BE_950497071F99.label = selected037
+MenuItem_A4F48939_8F39_DF78_41E0_25757A578A1D.label = selected038
+MenuItem_A4F5F93A_8F39_DF78_41B5_A7CA4426903B.label = selected039
+MenuItem_A4F6793A_8F39_DF78_41DA_C10D4309190C.label = selected040
+MenuItem_A4F5093A_8F39_DF78_41D7_CB82193A071F.label = selected041
+MenuItem_A4F6793A_8F39_DF78_41DE_8428CF39CFEE.label = selected042
+MenuItem_A4F52934_8F39_DF08_41D9_F1BC76FDEDF1.label = selected044
+MenuItem_A4F4D933_8F39_DF08_41BB_3B9BE55EC653.label = selected045
